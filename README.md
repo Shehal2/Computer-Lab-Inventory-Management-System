@@ -2,6 +2,6 @@
  <br>
 Visual Studio 2022 
 <br>
-use language : C#
+Use language : C#
 <br>
 Data base : SQL Server
